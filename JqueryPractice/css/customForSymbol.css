@@ -1,0 +1,11 @@
+.topnav .divider {
+    border-bottom: 1px solid red;
+   	margin-right: 1069px;
+}    
+
+.div{ 
+margin:10px;
+padding:12px; 
+border:2px solid #666; 
+width:60px;
+}
